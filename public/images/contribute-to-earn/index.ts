@@ -1,0 +1,12 @@
+export * as accountImage from './account-image.png';
+export * as cardImage1 from './card-image1.png';
+export * as cardImage2 from './card-image2.png';
+export * as cardImage3 from './card-image3.png';
+export * as chuninBadge from './chunin-badges.png';
+export * as heroBackground from './hero-background.png';
+export * as popupWave from './pop-up-wave.png';
+export * as questBackground from './quest-background.png';
+export * as questBanner from './quest-banner.png';
+export * as questNewsletter from './quest-newsletter.png';
+export * as screen from './screen.png';
+export * as retroactiveProfileBanner from './retroactive-profile-banner.png'

@@ -1,0 +1,8 @@
+services:
+  new-orochi:
+    restart: unless-stopped
+    image: orochinetwork/new-orochi-website:latest
+    volumes:
+      - ./.env:/home/app/.env
+    ports:
+      - 3123:3000

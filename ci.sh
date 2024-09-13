@@ -1,0 +1,1 @@
+ssh cty_public "cd ~/code/orochi && ./cd.sh "

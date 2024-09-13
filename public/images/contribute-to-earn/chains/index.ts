@@ -1,0 +1,5 @@
+export * as a8V2 from './a8-v2.svg'
+export * as bnbV2 from './bnb-v2.svg'
+export * as ethV2 from './eth-v2.svg'
+export * as scrollV2 from './scroll-v2.svg'
+export * as u2uV2 from './u2u-v2.svg'
